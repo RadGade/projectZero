@@ -1,0 +1,27 @@
+{
+  "short_name": "minutes",
+  "name": "minutes",
+    "domain_name": "minutes://auth",
+    "start_url": "minutes://auth",
+    "description": "Decentralized video chat platform",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "../assests/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "../assests/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
